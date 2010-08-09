@@ -1,0 +1,20 @@
+Step 1 - Decide to write a game
+
+Most of you will have this step behind you already, but there are some hints about the direction of the first step. The best reason to start developing your own roguelike game is to create a game that you will enjoy playing yourself.
+
+Don't start by asking around about the definition of roguelike game -- you don't need it. If the game you write is not considered roguelike by others, but it's still fun to play for you -- you succeeded. It's not like there's some kind of a contest to write a game meeting certain specifications.
+
+Don't plan too much. Of course, if you want certain things in your game, you must write it so that there is room for them -- but don't even try to anticipate everything -- it's just impossible. When you write a design doc, you make a lot of decisions. Most of the decisions can't be made without performing some test first -- usually by writing small programs utilizing given feature. It's best to make the decisions when your project has already reached appropriate stage -- when you don't need to write an additional program, because your project already has everything you need.
+
+It's no fun to just proceed according to plan -- leave some space for improvisation. Don't be afraid about making mistakes or implementing something in an inflexible way -- you can improve it when you need it -- most of the time it will be ok.
+
+
+
+----
+
+
+Well, I have decided a bunch of times to do it, and at times got decently far along, but I think it was overdesigned, and I was trying to make a (as one would expect in a java program) making a game factory [factory]. My vision was a system of editors that could make a game, and I ultimately got stuck when it came to making the damn thing.
+
+I could come up with flexible stats patterns that were assigned to engines, but ther was no actual core. I went through the code in the last year or so and found that there was a lot of unnecessary code and abstraction.
+
+

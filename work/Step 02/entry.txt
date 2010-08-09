@@ -1,0 +1,28 @@
+Step 2 - Hello world!
+
+Prepare your programming environment. Choose your language and platform, choose appropriate compilers/interpreters, editor, version control, automated build, and other utilities. Set them up so that you're comfortable with them.
+
+Decide on which libraries you're going to use -- it can change later, but it's usually a painful change. Don't think too much about portability -- it can be fixed later. Think about what you need and what you're comfortable with.
+
+Decide on the language you want to write comments and object names in your code, as well as the language you want to be used in your game. It's strongly recommended to use English in your source code -- you can get more help this way from others.
+
+Write a simple 'Hello world!' program and test whether it works. Test your libraries, etc. -- you don't want any surprises.
+
+
+------------
+
+
+I am choosing python.
+
+I am still not good with python, but all my experience with perl has not fared well with even trying something like curses. Also, I am focusing on python work for my job, so every little bit helps.
+
+If it goes anywhere, or would be of service, I can also use the pygame library.
+
+I considered other options, mostly falsh or unity, but unity has a heavy resource burden in that everything has to be designed in 3d. I am more concerned about the mechanics and engine than 3d modeling layout.
+
+
+While I would like to do a console style program, I have never had any luck with curses, other than a very basic C program. 
+
+Dwarf fortress has an interesting layout, but its default is actually a tileset of graphics that look like characters. I am not in love with the idea of a crawler being shown in ascii.
+
+Also, English.

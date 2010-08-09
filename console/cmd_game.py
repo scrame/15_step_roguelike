@@ -2,9 +2,21 @@
 
 from dice import Dice
 
-print("hello")
-
 dice = Dice()
+
+def test_map_commands():
+    def roll():
+        return dice.roll(2,6)
+
+    commands = {
+        'r' : roll
+        }
+
+    print('r' + " : " + commands['r'].__name__)
+    print(commands['r']())
+
+
+
 
 def test_dice():
     for i in range(20):

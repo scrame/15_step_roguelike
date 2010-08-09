@@ -17,4 +17,9 @@ Well, I have decided a bunch of times to do it, and at times got decently far al
 
 I could come up with flexible stats patterns that were assigned to engines, but ther was no actual core. I went through the code in the last year or so and found that there was a lot of unnecessary code and abstraction.
 
+Anyway, I have always been fascinated by roguelikes, but rarely find the patience to try to pick up the learning curve (dwarf fortress also looks great, but try that with y'know, job, friends, family, etc.)
+
+Playing through shiren, i immediately found the tension to be ... offputting, but I think I got it, and have been trying to think of basic mechanics that could be done at a commant prompt.
+
+I haven't worked with flash in ages, and my ailing windows box doesn't like it much. I think just a simple console style stats game could be more fun than focusing in on crappy vector graphics. Also, fuck the haters.
 

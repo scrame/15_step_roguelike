@@ -6,10 +6,9 @@ print("hello")
 
 dice = Dice()
 
-for i in range(20):
-    print "3d6: " + str(dice.roll(3,6))
-
-
+def test_dice():
+    for i in range(20):
+        print "3d6: " + str(dice.roll(3,6))
 
 
 def test_raw_input():

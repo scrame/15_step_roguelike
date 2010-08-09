@@ -1,0 +1,14 @@
+Step 3 - It's a boy!
+
+Start with screen output and keyboard input. Decide preemptively on your screen layout (easy, you can change it later) and make the routines that display map characters, status lines and messages.
+
+Make the routine to read key-presses (no config files, no keys redefinition).
+
+Make a '@ walking around the empty screen' demo. Play with it a little, clean things up, play some more, imagining the game is finished and you're playing it.
+
+Make the message handling routines -- especially for the debugging messages -- they come in handy.
+
+
+------
+
+Ok, shit just got real. I'm giving up for a minute.

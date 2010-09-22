@@ -30,7 +30,7 @@ def run(win):
     while(1):
         update_pos(win.getch())        
         win.move(y,x)
-        win.addstr('#')
+        win.addstr('@')
         win.move(0,0)
         win.refresh() 
 
